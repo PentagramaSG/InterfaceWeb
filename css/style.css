@@ -43,16 +43,90 @@
     border-right-color: white;
 }
 
-#div-pesquisa-produto-branco {
+#grid-pesquisa-produto {
     background-color: white;
     width: 900px;
     height: 180px;
     margin-left: 45px;
     margin-top: 20px;
-    float: left;  
+    float: left;
+    
 }
 
 #img-sport4you {
     margin-left: 35px;
     float: left;
+}
+
+.wrapper{
+   float: left;
+   left: 269px;
+   width: 900px;
+   margin-bottom: 1px;
+   background-color: #cccccc;
+   margin-left: 45px;
+   margin-top: 20px;
+}
+.left1{
+   position: relative;
+   float: left;
+   left: 0px;
+   width: 160px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left2{
+   position: relative;
+   float: left;
+   left: 1px;
+   width: 100px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left3{
+   position: relative;
+   float: left;
+   left: 2px;
+   width: 200px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left4{
+   position: relative;
+   float: left;
+   left: 3px;
+   width: 250px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left5{
+   position: relative;
+   float: left;
+   left: 4px;
+   width: 65px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left6{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 70px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
+}
+.left7{
+   position: relative;
+   float: left;
+   left: 6px;
+   width: 50px;
+   height: 30px;
+   background-color: #ffffff;
+   text-align: center;
 }
