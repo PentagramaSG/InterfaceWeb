@@ -32,7 +32,7 @@
     background-color: #C7C7C7;
     width:340px;
     height:220px;
-    margin-right: 250px;
+    margin-right: 285px;
     float:right;
     box-shadow: -2px -2px 1px;
     border-bottom-style: solid;
@@ -45,7 +45,7 @@
 
 #grid-pesquisa-produto {
     background-color: white;
-    width: 900px;
+    width: 865px;
     height: 180px;
     margin-left: 45px;
     margin-top: 20px;
@@ -61,11 +61,10 @@
 .wrapper{
    float: left;
    left: 269px;
-   width: 900px;
+   width: 863px;
    margin-bottom: 1px;
    background-color: #cccccc;
-   margin-left: 45px;
-   margin-top: 20px;
+
 }
 .left1{
    position: relative;
@@ -89,7 +88,7 @@
    position: relative;
    float: left;
    left: 2px;
-   width: 200px;
+   width: 192px;
    height: 30px;
    background-color: #ffffff;
    text-align: center;
@@ -98,7 +97,7 @@
    position: relative;
    float: left;
    left: 3px;
-   width: 250px;
+   width: 220px;
    height: 30px;
    background-color: #ffffff;
    text-align: center;
@@ -129,4 +128,35 @@
    height: 30px;
    background-color: #ffffff;
    text-align: center;
+}
+
+
+.tabela-pesquisa-produto{
+    float: left;
+    margin-left: 45px;
+    border-color: black;
+    background-color: white;
+    
+}
+
+#div-pesquisa-produto{
+   float: left;
+   left: 269px;
+   width: 861px;
+   margin-bottom: 1px;
+   background-color: #cccccc;
+}
+
+#codigo-pp-left{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+#codigo-pp-right{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    
 }
