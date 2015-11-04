@@ -13,6 +13,8 @@
     color: #fff;
 }
 
+/* TELA ↓ PESQUISAR PRODUTO */
+
 #div-pesquisa-produto-azul {
     background-color: #009FAB;
     width:500px;
@@ -160,3 +162,25 @@
     margin-top: 10px;
     
 }
+
+/* TELA ↑ PESQUISAR PRODUTO */
+
+/* TELA ↓ CADASTRAR CLIENTE */
+
+.lbl-cclient{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+#div-cc-azul{
+    background-color: #009FAB;
+    width: 1100px;
+    height: 550px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+}
+
+
+/* TELA ↑ CADASTRAR CLIENTE */
