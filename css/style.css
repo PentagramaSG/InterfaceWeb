@@ -131,3 +131,59 @@
 }
 
 /* TELA ↑ CADASTRAR CLIENTE */
+
+/* TELA ↓ PESQUISAR CLIENTE */
+
+#div-pc-azul{
+    background-color: #009FAB;
+    width: 950px;
+    height: 550px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+
+#div-status-pc{
+    width: 200px;
+    height: 100px;
+    text-align: left;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+}
+
+.texto-status-pc{
+    margin-left: 15px;
+}
+
+#grid-pc-branco{
+    background-color: white;
+    width: 865px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+#btn-pc{
+    float: left;
+    margin-left: 20px;
+    background-color: #00417A;
+}
+
+#btn-pp{
+    float: right;
+    background-color: #00417A;
+}
+
+#btn-cc{
+    float: right;
+    margin-right: 20px;
+    
+}
+
+
+/* TELA ↑ PESQUISAR CLIENTE */
