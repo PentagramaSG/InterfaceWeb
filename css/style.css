@@ -186,4 +186,29 @@
 }
 
 
+
+
 /* TELA ↑ PESQUISAR CLIENTE */
+
+/* TELA ↓ CADASTRAR PRODUTO */
+
+
+
+
+
+#codigo-cp-left{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+#btn-cp{
+    float: right;
+    
+    margin-right: 20px;
+    
+}
+
+
+/* TELA ↑ CADASTRAR PROTUDO */
