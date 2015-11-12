@@ -153,6 +153,7 @@
     border-color: white;
     border-style: solid;
     border-width: thin;
+    position: absolute;
 }
 
 .texto-status-pc{
@@ -179,10 +180,16 @@
     background-color: #00417A;
 }
 
-#btn-cc{
+#btn-cc1{
     float: right;
     margin-right: 20px;
-    
+    margin-top: 430px;
+}
+
+#btn-cc2{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
 }
 
 
@@ -191,9 +198,6 @@
 /* TELA ↑ PESQUISAR CLIENTE */
 
 /* TELA ↓ CADASTRAR PRODUTO */
-
-
-
 
 
 #codigo-cp-left{
@@ -212,3 +216,42 @@
 
 
 /* TELA ↑ CADASTRAR PROTUDO */
+
+/* TELA ↓ PESQUISAR FORNECEDOR */
+
+#div-cc-azul{
+    background-color: #009FAB;
+    width: 950px;
+    height: 620px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+
+
+#div-status-pf{
+    width: 200px;
+    height: 100px;
+    text-align: left;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    position: absolute;
+}
+
+#btn-cf1{
+    float: right;
+    margin-right: 20px;
+    margin-top: 430px;
+}
+
+#btn-cf2{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+/* TELA ↑ PESQUISAR FORNECEDOR */
