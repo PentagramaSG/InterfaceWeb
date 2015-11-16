@@ -184,12 +184,14 @@
     float: right;
     margin-right: 20px;
     margin-top: 430px;
+    background-color: #00417A;
 }
 
 #btn-cc2{
     float: right;
     margin-right: 20px;
     margin-top: 20px;
+    background-color: #00417A;
 }
 
 
@@ -209,7 +211,7 @@
 
 #btn-cp{
     float: right;
-    
+    background-color: #00417A;
     margin-right: 20px;
     
 }
@@ -246,12 +248,53 @@
     float: right;
     margin-right: 20px;
     margin-top: 430px;
+    background-color: #00417A;
 }
 
 #btn-cf2{
     float: right;
     margin-right: 20px;
     margin-top: 20px;
+    background-color: #00417A;
 }
 
 /* TELA ↑ PESQUISAR FORNECEDOR */
+
+/* TELA ↓ CADASTRAR FUNCIONÁRIO */
+
+
+#div-cfn-azul{
+    background-color: #009FAB;
+    width: 590px;
+    height: 400px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+
+#div-status-cfn{
+    width: 200px;
+    height: 58px;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    margin-left: 170px;
+}
+
+#btn-cfn1{
+    float: left;
+    margin-left: 110px;
+    background-color: #00417A;
+}
+
+#btn-cfn2{
+    float: right;
+    margin-right: 110px;
+    background-color: #00417A;
+}
+
+/* TELA ↑ CADASTRAR FUNCIONÁRIO */
