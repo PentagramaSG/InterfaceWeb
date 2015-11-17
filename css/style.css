@@ -13,21 +13,31 @@
     color: #fff;
 }
 
+.txt-preto{
+    color: black;
+}
+
+#page-wrapper {
+    -webkit-box-shadow: inset 5px 4px 2px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 5px 4px 2px -1px rgba(0,0,0,0.75);
+    box-shadow: inset 5px 4px 2px -1px rgba(0,0,0,0.75);
+    background-color: #282828;/
+}
+.div-img{
+    background-image:url(imagens/soft.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
 /* TELA ↓ PESQUISAR PRODUTO */
 
-#div-pesquisa-produto-azul {
-    background-color: #009FAB;
+    #div-pesquisa-produto-azul {
     width:500px;
     height:220px;
     margin-left: 45px;
     float: left;
-    box-shadow: -2px -2px 1px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: white;
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-right-color: white;
 }
 
 #div-pesquisa-produto-cinza {
@@ -110,15 +120,12 @@
 }
 
 #div-cc-azul{
-    background-color: #009FAB;
+    
     width: 950px;
     height: 550px;
     float: left;
     margin-left: 47px;
     margin-top: 25px;
-    border-width: thin;
-    border-style: solid;
-    border-color: black;
 }
 
 #div-status-cc{
@@ -135,15 +142,13 @@
 /* TELA ↓ PESQUISAR CLIENTE */
 
 #div-pc-azul{
-    background-color: #009FAB;
+    
     width: 950px;
     height: 550px;
     float: left;
     margin-left: 47px;
     margin-top: 25px;
-    border-width: thin;
-    border-style: solid;
-    border-color: black;
+
 }
 
 #div-status-pc{
@@ -222,15 +227,11 @@
 /* TELA ↓ PESQUISAR FORNECEDOR */
 
 #div-cc-azul{
-    background-color: #009FAB;
     width: 950px;
     height: 620px;
     float: left;
     margin-left: 47px;
     margin-top: 25px;
-    border-width: thin;
-    border-style: solid;
-    border-color: black;
 }
 
 
@@ -264,15 +265,11 @@
 
 
 #div-cfn-azul{
-    background-color: #009FAB;
     width: 590px;
     height: 400px;
     float: left;
     margin-left: 47px;
     margin-top: 25px;
-    border-width: thin;
-    border-style: solid;
-    border-color: black;
 }
 
 #div-status-cfn{
