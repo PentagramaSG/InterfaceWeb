@@ -186,15 +186,15 @@
 }
 
 #btn-cc1{
-    float: right;
-    margin-right: 20px;
-    margin-top: 430px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
     background-color: #00417A;
 }
 
 #btn-cc2{
     float: right;
-    margin-right: 20px;
+    margin-right: 150px;
     margin-top: 20px;
     background-color: #00417A;
 }
