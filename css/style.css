@@ -278,7 +278,7 @@
     text-align: center;
     border-color: white;
     border-style: solid;
-    border-width: thin;
+    border-width: thin;    
     margin-left: 170px;
 }
 
@@ -297,3 +297,22 @@
 }
 
 /* TELA ↑ CADASTRAR FUNCIONÁRIO */
+
+/* TELA ↓ RELATÓRIO PERÍODO */
+
+#div-rvpp{
+    width: 950px;
+    height: 550px;
+    float: left;
+    margin-left: 47px;
+    margin-top: 25px;
+}
+
+/* TELA ↑ RELATÓRIO PERÍODO */
+
+/* TELA ↓ RELATÓRIO VENDEDOR */
+
+
+
+
+/* TELA ↑ RELATÓRIO VENDEDOR */
